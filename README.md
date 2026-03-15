@@ -1,19 +1,19 @@
-# Salut, moi c'est Maxime
+# Hi, I'm Maxime
 
-DevOps Engineer Junior | Passionné par l'automatisation et le déploiement continu
+Junior DevOps Engineer | Passionate about automation and continuous deployment
 
 ---
 
-## Compétences
+## Skills
 
-### CI/CD & Automatisation
+### CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Conteneurisation
+### Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Cloud & Infra
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white)
 
@@ -26,27 +26,27 @@ DevOps Engineer Junior | Passionné par l'automatisation et le déploiement cont
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
 
-### Systèmes & Scripting
+### Systems & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Projets
+## Projects
 
-| Projet | Description |
-|--------|-------------|
-| [homelab-infrastructure](https://github.com/RustyHammer/homelab-infrastructure) | Mon cloud perso : ZimaBoard + 7 services Docker (Immich, Nextcloud, Pi-hole, Prometheus, Grafana, Tailscale, Vaultwarden) |
-| [devops-ci-cd-pipeline](https://github.com/RustyHammer/devops-ci-cd-pipeline) | Pipeline CI/CD complete avec Jenkins : build, test, containerisation et deploiement sur AWS EC2 |
-| [docker-compose-stacks](https://github.com/RustyHammer/docker-compose-stacks) | Collection de stacks Docker Compose pretes a l'emploi (Node.js/MongoDB, Java/PostgreSQL) |
-| [aws-ec2-deployment](https://github.com/RustyHammer/aws-ec2-deployment) | Scripts et documentation pour le deploiement d'applications conteneurisees sur AWS EC2 |
-| [nexus-artifact-management](https://github.com/RustyHammer/nexus-artifact-management) | Configuration Maven et Gradle pour la publication d'artefacts vers Nexus Repository Manager |
-| [devops-cheatsheets](https://github.com/RustyHammer/devops-cheatsheets) | Notes et commandes essentielles : Linux, Docker, Jenkins, AWS, Git |
+| Project | Description |
+|---------|-------------|
+| [homelab-infrastructure](https://github.com/RustyHammer/homelab-infrastructure) | My personal cloud: ZimaBoard + 7 Docker services (Immich, Nextcloud, Pi-hole, Prometheus, Grafana, Tailscale, Vaultwarden) |
+| [devops-ci-cd-pipeline](https://github.com/RustyHammer/devops-ci-cd-pipeline) | Full CI/CD pipeline with Jenkins: build, test, containerize and deploy to AWS EC2 |
+| [docker-compose-stacks](https://github.com/RustyHammer/docker-compose-stacks) | Ready-to-use Docker Compose stacks (Node.js/MongoDB, Java/PostgreSQL) |
+| [aws-ec2-deployment](https://github.com/RustyHammer/aws-ec2-deployment) | Scripts and documentation for deploying containerized apps on AWS EC2 |
+| [nexus-artifact-management](https://github.com/RustyHammer/nexus-artifact-management) | Maven and Gradle configuration for publishing artifacts to Nexus Repository Manager |
+| [devops-cheatsheets](https://github.com/RustyHammer/devops-cheatsheets) | Essential notes and commands: Linux, Docker, Jenkins, AWS, Git |
 
 ---
 
-## Formation
+## Education
 
 - **DevOps Bootcamp** - TechWorld with Nana (2025)
 
@@ -54,5 +54,5 @@ DevOps Engineer Junior | Passionné par l'automatisation et le déploiement cont
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VOTRE-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
