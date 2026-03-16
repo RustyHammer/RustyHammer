@@ -10,8 +10,10 @@ Junior DevOps Engineer | Passionate about automation and continuous deployment
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Containerization
+### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -37,6 +39,7 @@ Junior DevOps Engineer | Passionate about automation and continuous deployment
 
 | Project | Description |
 |---------|-------------|
+| [kubernetes-microservices](https://github.com/RustyHammer/kubernetes-microservices) | Progressive K8s deployment: raw manifests to Helm Charts and Helmfile — 11 microservices online shop |
 | [homelab-infrastructure](https://github.com/RustyHammer/homelab-infrastructure) | My personal cloud: ZimaBoard + 7 Docker services (Immich, Nextcloud, Pi-hole, Prometheus, Grafana, Tailscale, Vaultwarden) |
 | [devops-ci-cd-pipeline](https://github.com/RustyHammer/devops-ci-cd-pipeline) | Full CI/CD pipeline with Jenkins: build, test, containerize and deploy to AWS EC2 |
 | [docker-compose-stacks](https://github.com/RustyHammer/docker-compose-stacks) | Ready-to-use Docker Compose stacks (Node.js/MongoDB, Java/PostgreSQL) |
